@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Pro code editor\bin\Debug\Pro code editor.exe.config
+C:\Users\user\source\repos\Pro code editor\bin\Debug\Pro code editor.exe
+C:\Users\user\source\repos\Pro code editor\bin\Debug\Pro code editor.pdb
+C:\Users\user\source\repos\Pro code editor\bin\Debug\zxing.dll
+C:\Users\user\source\repos\Pro code editor\bin\Debug\zxing.presentation.dll
+C:\Users\user\source\repos\Pro code editor\bin\Debug\zxing.xml
+C:\Users\user\source\repos\Pro code editor\bin\Debug\zxing.presentation.xml
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro_code_editor.MainForm.resources
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro_code_editor.Properties.Resources.resources
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.csproj.CopyComplete
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.exe
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.pdb
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro_code_editor.StartForm.resources
+C:\Users\user\source\repos\Pro code editor\obj\Debug\Pro code editor.csproj.AssemblyReference.cache
